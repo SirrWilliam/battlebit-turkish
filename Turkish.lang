@@ -1,7 +1,8 @@
 Kodlama = UTF-8
 Sir William Tarafından Çevirildi.
-Güncellemeler: Sir William (16.01.2021)
+Son Güncelleme: Sir William <16.01.2021>
 
+// Dil Dosyasıyla oynamayın! Boşlukları veya satır aralıklarını silmeyin.
 // @1=Bunlar değişkenler, Sakın Değiştirmeyin!
 
 0=HIKAYE
@@ -368,7 +369,7 @@ Güncellemeler: Sir William (16.01.2021)
 361=@1 Dakika Kaldı!
 362=Tamir Bonusu
 363=Sürücü Asisti
-364=Düşman Tankı Yok Edildi
+364=Düşman Aracı Yok Edildi
 365=Savaş Alanına Dönün Yoksa Öldürüleceksiniz: @1
 366=Düşman Üssünden Ayrılın Yoksa Öldürüleceksiniz: @ 1
 367=Saldırı Altında
