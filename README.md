@@ -10,3 +10,6 @@
   <li><a href="https://discord.com/users/720667137072693329">'xkzL</a></li>
   <li>BalgruufTheGreater</li>
 </ul>
+
+<b>This layout was copied from the Serbian translation team of Battlebit Remastered.</b>
+
