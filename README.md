@@ -1,7 +1,7 @@
 # BattleBit-Turkish
 
-<b>Current Version : 9</b>
-<b>Turkish translation for the game Battlebit Remastered</b>
+Current Version : 9
+Turkish translation for the game Battlebit Remastered
 
 ## Contributors
 
