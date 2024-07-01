@@ -23,6 +23,8 @@ If you don't want to wait for the developer to update the translation file.
 1. Open the `BattleBitConfig.ini` file inside the opened folder with `Notepad`.
 1. Inside the `BattleBitConfig.ini` file, in the `language=` section, paste the following path `C:\Users\YOURUSERNAME\AppData\Roaming\Turkish.lang` and change `YOURUSERNAME` to your windows username, then save (`CTRL + S`) and close the file.
 
+# BattleBit Remastered Turkish Community
+If you're looking for a Turkish community for Battlebit Remastered, I recommend you check out the Discord server below.
 
-
+[BattleBit Remastered Turkish Community Discord Server](https://discord.gg/eVm4kbqdaW)
 
