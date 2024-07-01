@@ -1,12 +1,10 @@
 # BattleBit-Turkish
 
 <b>Current Version : 9</b>
-
 <b>Turkish translation for the game Battlebit Remastered</b>
 
 ## Contributors
 
-<h3 align="center">Contributors</h3>
  <ul>
   <li><a href="https://discord.com/users/269121185797767169">SirWilliam</a></li>
   <li><a href="https://discord.com/users/214504859636989952">Ragnarøk</a></li>
@@ -15,9 +13,22 @@
 </ul>
 
 ## Manuel Installing
-
 If you don't want to wait for the developer to update the translation file.
 
-1. WIP
+### Windows
+1.First download the `Turkish.lang` file from [Github]([https://desktop.github.com/](https://github.com/SirrWilliam/battlebit-turkish/blob/main/Turkish.lang)).
+2.Search for `Run` in the windows search, or press the `WIN + R` button to open the Run App.
+3.In the Run app text box, enter following path
+```bash
+%userProfile%\AppData\Roaming
+```
+and click OK.
+4.Drop the downloaded `Turkish.lang` file into the opened folder.
+5.Open the `BattleBitConfig.ini` file inside the opened folder with `Notepad`.
+6.Inside the `BattleBitConfig.ini` file, in the `language=` section, paste the following path
+```bash
+C:\Users\YOURUSERNAME\AppData\Roaming\Turkish.lang
+```
+and change `YOURUSERNAME` to your windows username, then save/`CTRL + S` and close the file.
 
 
