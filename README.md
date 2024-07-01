@@ -1,8 +1,8 @@
 # BattleBit-Turkish
+> **Last Update** : 
+> Current Version is `9`. Last updated on **30/06/2024**.
 
-Current Version : 9
-Turkish translation for the game Battlebit Remastered
-
+Turkish translation for the game Battlebit Remastered.
 ## Contributors
 
  <ul>
