@@ -26,5 +26,6 @@ If you don't want to wait for the developer to update the translation file.
 # BattleBit Remastered Turkish Community
 If you're looking for a Turkish community for Battlebit Remastered, I recommend you check out the Discord server below.
 
-[BattleBit Remastered Turkish Community Discord Server](https://discord.gg/eVm4kbqdaW)
+![Discord Banner 3](https://discord.com/api/guilds/941306953148289034/widget.png?style=banner3)
+
 
