@@ -2,6 +2,9 @@
 > **Son Güncelleme** : 
 > Şuanki Sürüm `9`. En son **30/06/2024** tarihinde güncellendi.
 
+> [!NOTE]  
+> If you are looking for the English version : [English](https://github.com/SirrWilliam/battlebit-turkish/blob/main/README.md)
+
 Battlebit Remastered oyunu için Türkçe çeviri.
 ## Katkıda Bulunanlar
 
