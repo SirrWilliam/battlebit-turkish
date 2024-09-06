@@ -19,7 +19,10 @@ Turkish translation for the game Battlebit Remastered.
 If you don't want to wait for the developer to update the translation file.
 
 ### Windows
-1. First download the `Turkish.lang` file from [Github](https://downgit.github.io/#/home?url=https://github.com/SirrWilliam/battlebit-turkish/blob/main/Turkish.lang).  
+> [!TIP]
+> If you haven't used Github before, you can download it directly from [DownGit](https://downgit.github.io/#/home?url=https://github.com/SirrWilliam/battlebit-turkish/blob/main/Turkish.lang) as a `.zip` file. The `Turkish.lang` file is inside the `Turkish.lang.zip` file.
+
+1. First download the `Turkish.lang` file from [Github](https://github.com/SirrWilliam/battlebit-turkish/blob/main/Turkish.lang).  
 1. Search for `Run` in the windows search, or press the `WIN + R` button to open the Run App.
 1. In the Run app text box, enter following path `%userProfile%\AppData\Roaming` and click OK.
 1. Drop the downloaded `Turkish.lang` file into the opened folder.
