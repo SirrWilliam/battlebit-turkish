@@ -19,7 +19,10 @@ Battlebit Remastered oyunu için Türkçe çeviri.
 Geliştiricinin çeviri dosyasını güncellemesini beklemek istemiyorsanız.
 
 ### Windows
-1. Öncelikle [Github](https://downgit.github.io/#/home?url=https://github.com/SirrWilliam/battlebit-turkish/blob/main/Turkish.lang) üzerinden `Turkish.lang` dosyasını indirin.
+> [!TIP]
+> Eğer daha önce Github kullanmadıysanız [DownGit](https://downgit.github.io/#/home?url=https://github.com/SirrWilliam/battlebit-turkish/blob/main/Turkish.lang) üzerinden direkt `.zip` dosyası olarak indirebilirsiniz. `Turkish.lang` dosyası `Turkish.lang.zip` dosyasının içinde bulunmaktadır.
+
+1. Öncelikle [Github](https://github.com/SirrWilliam/battlebit-turkish/blob/main/Turkish.lang) üzerinden `Turkish.lang` dosyasını indirin.
 1. Ardından windows arama kısmından `Çalıştır` programını arayıp açın veya klavyenizdeki `WIN + R` tuş kombinasyon ile programı açın.
 1. Çalıştır programındaki yazı kutucuğuna `%userProfile%\AppData\Roaming` yolunu kopyalayıp yapıştırın.
 1. İndirdiğiniz `Turkish.lang` dosyasını açılan klasörün içine bırakın.
