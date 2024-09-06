@@ -2,6 +2,9 @@
 > **Last Update** : 
 > Current Version is `9`. Last updated on **30/06/2024**.
 
+> [!NOTE]  
+> Eğer Türkçe versiyonunu arıyorsan : [Türkçe](https://github.com/SirrWilliam/battlebit-turkish/blob/main/README-TR.md)
+
 Turkish translation for the game Battlebit Remastered.
 ## Contributors
 
