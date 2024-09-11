@@ -1,6 +1,7 @@
 # BattleBit-Türkçe
 > **Son Güncelleme** : 
-> Şuanki Sürüm `9`. En son **30/06/2024** tarihinde güncellendi.
+> Şuanki Sürüm `10`. En son **09.09.2024** tarihinde güncellendi.
+> Son Değişiklikler : [Commit](https://github.com/SirrWilliam/battlebit-turkish/commit/c50c6c74afd2bbbf25b949d313027ee8075fb5c4)
 
 > [!NOTE]  
 > If you are looking for the English version : [English](https://github.com/SirrWilliam/battlebit-turkish/blob/main/README.md)
@@ -10,8 +11,9 @@ Battlebit Remastered oyunu için Türkçe çeviri.
 
  <ul>
   <li><a href="https://discord.com/users/269121185797767169">SirWilliam</a></li>
-  <li><a href="https://discord.com/users/214504859636989952">Ragnarøk</a></li>
+  <li><a href="https://discord.com/users/214504859636989952">John|Wick`Baba Yaga</a></li>
   <li><a href="https://discord.com/users/720667137072693329">'xkzL</a></li>
+  <li><a href="https://discord.com/users/279248160935641088">gordonbey</a></li>
   <li>BalgruufTheGreater</li>
 </ul>
 
