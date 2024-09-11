@@ -1,8 +1,8 @@
 Encoding=UTF-8
 // SirWilliam ve Türk topluluğu tarafından çevrildi.
-// Son Güncelleme: SirWilliam (30.06.2024)
+// Son Güncelleme: SirWilliam (09.09.2024)
 // @1,@2 = Bunlar değişkenler, SAKIN DEĞİŞTİRMEYİN!
-// Yama Geçmişi: Xkzl (2.11.2023) 
+
 
 0=HIKAYE
 1=COK OYUNCULU
@@ -125,7 +125,7 @@ Encoding=UTF-8
 118=@1 senin mangana katıldı
 119=@1 senin mangandan ayrıldı
 120=@1 artık manga lideri
-121=Artık sen manga liderisin!
+121=Artık manga lideri sensin!
 122=Mangandan atıldın.
 123=@1 sınıfı Açıldı.
 124=Piyade
@@ -554,9 +554,9 @@ Encoding=UTF-8
 547=Otomatik Tüfekler//
 548=Özel Nişancı Tüfeği //
 549=Keskin Nişancı Tüfekleri//
-550=Hafif Destek Tabancaları//
-551=Hafif Makineli Silahlar//
-552=Makineli Silahlar//
+550=Hafif Destek Tüfekleri//
+551=Hafif Makineli Tüfekler//
+552=Hafif Makineli Silahlar//
 553=Tabancalar//
 554=Otomatik Tabancalar//
 555=Ağır Kalibre Tabancalar//
@@ -1330,7 +1330,7 @@ Encoding=UTF-8
 1323=Hile - speedhack////
 1324=Sabit Nişan Al//
 1325=Ana Menü//
-1326=Poligonda oynuyor//
+1326=Atış Poligonda oynuyor//
 1327=Ana menüde//
 1328=@1 Sunucusunda oynuyor.//Playing in server.
 1329=Arkadaş sekmesini aç//
@@ -1678,7 +1678,7 @@ Encoding=UTF-8
 1671=İlerle
 1672=Gözle
 1673=İşaretle
-1674=Savaş Tüfekleri
+1674=Muharebe Tüfekleri
 1675=Modeller
 1676=Film gren yoğunluğu//
 1677=Manganın @1 puanı var.
