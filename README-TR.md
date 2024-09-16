@@ -1,7 +1,7 @@
 # BattleBit-Türkçe
 > **Son Güncelleme** : 
-> Şuanki Sürüm `10`. En son **09/09/2024** tarihinde güncellendi.
-> Son Değişiklikler : [Commit](https://github.com/SirrWilliam/battlebit-turkish/commit/c50c6c74afd2bbbf25b949d313027ee8075fb5c4)
+> Şuanki Sürüm `11`. En son **09/16/2024** tarihinde güncellendi.
+> Son Değişiklikler : [Commit](https://github.com/SirrWilliam/battlebit-turkish/commit/d733e1b1d25611d5abbb7da14adf59e38ec8e6d4)
 
 > [!NOTE]  
 > If you are looking for the English version : [English](https://github.com/SirrWilliam/battlebit-turkish/blob/main/README.md)
