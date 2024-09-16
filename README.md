@@ -1,7 +1,7 @@
 # BattleBit-Turkish
 > **Last Update** : 
-> Current Version is `10`. Last updated on **09/09/2024**.
-> Latest Changes : [English](https://github.com/SirrWilliam/battlebit-turkish/commit/c50c6c74afd2bbbf25b949d313027ee8075fb5c4)
+> Current Version is `11`. Last updated on **09/16/2024**.
+> Latest Changes : [English](https://github.com/SirrWilliam/battlebit-turkish/commit/d733e1b1d25611d5abbb7da14adf59e38ec8e6d4)
 
 > [!NOTE]  
 > Eğer Türkçe versiyonunu arıyorsan : [Türkçe](https://github.com/SirrWilliam/battlebit-turkish/blob/main/README-TR.md)
