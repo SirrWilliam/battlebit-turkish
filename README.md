@@ -11,7 +11,7 @@ Turkish translation for the game Battlebit Remastered.
 
  <ul>
   <li><a href="https://discord.com/users/269121185797767169">SirWilliam</a></li>
-  <li><a href="https://discord.com/users/214504859636989952">Ragnarøk</a></li>
+  <li><a href="https://discord.com/users/214504859636989952">John|Wick`Baba Yaga</a></li>
   <li><a href="https://discord.com/users/720667137072693329">'xkzL</a></li>
   <li><a href="https://discord.com/users/279248160935641088">gordonbey</a></li>
   <li>BalgruufTheGreater</li>
